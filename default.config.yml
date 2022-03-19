@@ -78,9 +78,10 @@ homebrew_cask_apps:
   - licecap
   - sequel-ace
   - slack
-  - sublime-text
   - transmit
   - vagrant
+  - visual-studio-code
+  - homebrew/cask-versions/visual-studio-code-insiders
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
